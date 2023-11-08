@@ -30,7 +30,7 @@
 
 I am Jason Benedicic, technology professional and content creator based out of Cambridge, UK. Spending most of my now 20+ year IT career in and out of various Data Centre facilities, I decided to put that together and The Data Centre Brit was born.
 
-- 🔭 I work as a Technologist at NetApp, covering the Astra family of products and generally all things Kubernetes
+- 🔭 I work as an Independent Consultant, covering Architecture & Design, Development, Platform Engineering, DevOps, and generally anything Cloud Native and Kubernetes.
 - 🌱 I spent the vast majority of my career learning from others that shared their experiences with the world, I hope that in some small way I can give back and help the next person
 - 🏠 Lover of all things home automation and SBC, often found tinkering with an over the top RPi cluster
 - 🎮 In my free time I can be found gaming, from classic tabletop games to online RPGs and first-person shooters
